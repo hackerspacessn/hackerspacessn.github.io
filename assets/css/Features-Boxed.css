@@ -1,10 +1,10 @@
 .features-boxed {
-  color:#313437;
-  background-color:#eef4f7;
+  background-color: black;
+  color: whitesmoke;
 }
 
 .features-boxed p {
-  color:#7d8285;
+  color: whitesmoke;
 }
 
 .features-boxed h2 {
@@ -41,9 +41,11 @@
 }
 
 .features-boxed .item .box {
+  min-width: 300px;
+  border: 2px whitesmoke solid;
   text-align:center;
   padding:30px;
-  background-color:#fff;
+  background-color:black;
   margin:0px 50px;
 }
 

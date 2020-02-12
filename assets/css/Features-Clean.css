@@ -1,6 +1,6 @@
 .features-clean {
-  color:#313437;
-  background-color:#fff;
+  background-color: black;
+  color: whitesmoke;
   padding-bottom:30px;
 }
 
@@ -11,7 +11,7 @@
 }
 
 .features-clean p {
-  color:#7d8285;
+  color: whitesmoke;
 }
 
 .features-clean h2 {

@@ -1,11 +1,11 @@
 .highlight-clean {
-  color:#313437;
-  background-color:#fff;
+  background-color: black;
+  color: whitesmoke;
   padding:50px 0;
 }
 
 .highlight-clean p {
-  color:#7d8285;
+  color: whitesmoke;
 }
 
 .highlight-clean h2 {
@@ -56,4 +56,3 @@
   background-color:#055ada;
   color:#fff;
 }
-

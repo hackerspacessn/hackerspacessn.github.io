@@ -2,3 +2,38 @@ body {
     background-color: black;
     color: whitesmoke;
   }
+
+.list-style {
+  list-style-type: none;
+  padding: 20px;
+}
+
+.list-items {
+  margin: 0px 0px 60px 0px;
+}
+
+.flex-display {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.card-general {
+  text-align: center;
+  background-color: #055ada;
+  color: white;
+  border-radius: 10px;
+}
+
+.person-icon {
+  padding: 50px 0px;
+}
+
+.sponsor {
+  border-radius: 10px;
+}
+
+.content {
+  margin: 20px 0;
+  
+}

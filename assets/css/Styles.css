@@ -21,6 +21,7 @@ body {
 
 .sponsor {
   border-radius: 10px;
+  flex-grow: 1;
 }
 
 .content {
@@ -29,4 +30,9 @@ body {
 
 .icon-pad {
   padding: 5px;
+}
+
+.responsive-img {
+  width:150px;
+  height:auto;
 }
